@@ -1,0 +1,11 @@
+# Changes here will be overwritten by Copier
+_commit: 74242dd
+_src_path: gh:meltano/edk
+admin_name: John Kaustinen
+cli_prefix: eztransformextension
+extension_description: A meltano utility extension for EzTransformExtension.
+extension_id: eztransformextension-ext
+extension_name: EzTransformExtension
+extension_name_lower: eztransformextension
+library_name: eztransformextension_ext
+wrapper_target_name: ezt
