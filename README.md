@@ -1,6 +1,6 @@
 # EzTransformExtension
 
-EzTransformExtension is A meltano utility extension for EzTransformExtension.
+EzTransformExtension is A meltano utility extension for ez-transform.
 
 ## Installing this extension for local development
 
